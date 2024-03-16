@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_3 BLMS", "HW_3 BLMS\HW_3 BLMS.csproj", "{C9EC97F4-E964-4F00-98AE-9FC4E1C0E308}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLMS.SS.Data", "BLMS.SS.Data\BLMS.SS.Data.csproj", "{AD125DC0-3D34-44AC-A179-CAB5266C2165}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9EC97F4-E964-4F00-98AE-9FC4E1C0E308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9EC97F4-E964-4F00-98AE-9FC4E1C0E308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9EC97F4-E964-4F00-98AE-9FC4E1C0E308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9EC97F4-E964-4F00-98AE-9FC4E1C0E308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD125DC0-3D34-44AC-A179-CAB5266C2165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD125DC0-3D34-44AC-A179-CAB5266C2165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD125DC0-3D34-44AC-A179-CAB5266C2165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD125DC0-3D34-44AC-A179-CAB5266C2165}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEEB2050-77CC-4FB4-94EE-5D4A0666D501}
+	EndGlobalSection
+EndGlobal
